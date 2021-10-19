@@ -17,8 +17,8 @@ import (
 	"strconv"
 
 	api "git.fd.io/govpp.git/api"
-	ethernet_types "git.fd.io/govpp.git/examples/binapi/ethernet_types"
-	interface_types "git.fd.io/govpp.git/examples/binapi/interface_types"
+	ethernet_types "git.fd.io/govpp.git/binapi/ethernet_types"
+	interface_types "git.fd.io/govpp.git/binapi/interface_types"
 	codec "git.fd.io/govpp.git/codec"
 )
 
