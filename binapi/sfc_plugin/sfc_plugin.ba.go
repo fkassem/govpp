@@ -22,7 +22,7 @@ import (
 	codec "git.fd.io/govpp.git/codec"
 )
 
-// This is a compile-time assertion to ensure that this generated file
+// This  is a compile-time assertion to ensure that this generated file
 // is compatible with the GoVPP api package it is being compiled against.
 // A compilation error at this line likely means your copy of the
 // GoVPP api package needs to be updated.
